@@ -1,0 +1,10 @@
+obj\Debug\TextFile.xml
+obj\Debug\TextFile.pdb
+bin\Debug\TextFile.exe
+bin\Debug\TextFile.pdb
+bin\Debug\TextFile.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TextFile.frmTextFiles.resources
+obj\Debug\TextFile.Resources.resources
+obj\Debug\TextFile.vbproj.GenerateResource.Cache
+obj\Debug\TextFile.exe

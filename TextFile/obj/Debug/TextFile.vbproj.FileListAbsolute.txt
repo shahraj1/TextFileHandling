@@ -1,0 +1,9 @@
+C:\Users\RAJ_PC\Desktop\.NET Programming 2016\Week 3\Resources of Study\TextFile\TextFile\obj\Debug\TextFile.exe
+C:\Users\RAJ_PC\Desktop\.NET Programming 2016\Week 3\Resources of Study\TextFile\TextFile\obj\Debug\TextFile.xml
+C:\Users\RAJ_PC\Desktop\.NET Programming 2016\Week 3\Resources of Study\TextFile\TextFile\obj\Debug\TextFile.pdb
+C:\Users\RAJ_PC\Desktop\.NET Programming 2016\Week 3\Resources of Study\TextFile\TextFile\bin\Debug\TextFile.exe
+C:\Users\RAJ_PC\Desktop\.NET Programming 2016\Week 3\Resources of Study\TextFile\TextFile\bin\Debug\TextFile.pdb
+C:\Users\RAJ_PC\Desktop\.NET Programming 2016\Week 3\Resources of Study\TextFile\TextFile\bin\Debug\TextFile.xml
+C:\Users\RAJ_PC\Desktop\.NET Programming 2016\Week 3\Resources of Study\TextFile\TextFile\obj\Debug\TextFile.frmTextFiles.resources
+C:\Users\RAJ_PC\Desktop\.NET Programming 2016\Week 3\Resources of Study\TextFile\TextFile\obj\Debug\TextFile.Resources.resources
+C:\Users\RAJ_PC\Desktop\.NET Programming 2016\Week 3\Resources of Study\TextFile\TextFile\obj\Debug\TextFile.vbproj.GenerateResource.Cache
